@@ -1,2 +1,2 @@
 # thatjimface
-Send someone [that jim face](www.thatjimface.com)
+Send someone [that jim face](https://www.thatjimface.com)
